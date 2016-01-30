@@ -78,7 +78,7 @@ h2 {
 }
 
 h3 {
-  font-size: 24px;
+  font-size: 200;
 }
 
 h4 {
@@ -134,7 +134,7 @@ strong {
 }
 
 img {
-  position: center;
+  position: center2;
   margin: 0 auto;
   max-width: 739px;
   padding: 5px;
